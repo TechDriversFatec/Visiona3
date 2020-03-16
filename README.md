@@ -1,4 +1,5 @@
 # Plataforma de Detecção de Talhões
+
 ## Equipe: Bruno Henrique, Iago Cardial, Matheus Vilela, Mayra Bernardes, Willyan Antunes;
 
 ##Repositório Completo
