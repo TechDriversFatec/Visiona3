@@ -1,8 +1,9 @@
 # Plataforma de Detecção de Talhões
 
-## Equipe: Bruno Henrique, Iago Cardial, Matheus Vilela, Mayra Bernardes, Willyan Antunes;
+## Equipe
+### Bruno Henrique, Iago Cardial, Matheus Vilela, Mayra Bernardes, Willyan Antunes;
 
-##Repositório Completo
+## Repositório Completo
 ### _https://drive.google.com/open?id=1jEIRRRzjDYy0dRNiwzEd5eHiCAOEnFMi_
 
 ## Design Thinking
